@@ -70,3 +70,4 @@ RO水の生成には高価なRO膜が使用され、メーカー推奨では2〜
 
 ```python
 cov_type='HAC', cov_kwds={'maxlags':14}
+```
